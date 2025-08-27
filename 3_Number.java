@@ -40,13 +40,15 @@ public class Perfect {
 output 
 Enter a number:
 6
-6 is a Perfect Number
+6 is a Perfect Number     (equals the sum of its proper positive divisors, which are all of its positive divisors excluding the number itself
+    
 
 
 Enter a number:
 12
-12 is a abundant Number
+12 is a abundant Number   the sum of its proper divisors (all positive divisors excluding the number itself) is less than the number itself
 
 Enter a number:
 9
-9 is a deficient Number
+
+9 is a deficient Number   the sum of its proper divisors (all positive divisors excluding the number itself) is less than the number itself
